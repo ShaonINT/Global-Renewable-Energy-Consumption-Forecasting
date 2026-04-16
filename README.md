@@ -2,7 +2,7 @@
 ## A Comparative Benchmarking Study of Statistical, Machine Learning, Deep Learning, and Hybrid Models
 
 **Authors:** Shaon Biswas · Paramita Roy  
-**Affiliation:** University of Hull / AIUB Bangladesh  
+ 
 
 ---
 
